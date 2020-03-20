@@ -1,11 +1,11 @@
 {
-  "name": "Wingkooe Droid",
-  "short_name": "wingkooedroid",
-  "start_url": "https://wingkooedroid.blogspot.com/",
+  "name": "PintarIT.com",
+  "short_name": "pintarit.com",
+  "start_url": "https://www.pintarit.com",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#31658C",
-  "description": "WINGKOOE DROID adalah sebuah blog berisi artikel - artikel menarik yang memberikan informasi dan pengalaman dengan tema seputar teknologi yang disajikan dengan bahasa yang menarik dan mudah dipahami.",
+  "description": "Menyajikan informasi dan teknologi terbaru seputar Android, Aplikasi, Komputer, Smartphone, Internet, serta informasi menarik lain dalam bidang IT.",
   "icons": [{
     "src": "https://3.bp.blogspot.com/-OcuOB8V1v_c/XhxY_HQeIVI/AAAAAAAACN8/im4NkMEm4nwauT6l0fRz9AgcH0uaR_lXgCLcBGAsYHQ/s48/android-icon-48x48.png",
     "sizes": "48x48",
